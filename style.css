@@ -2,6 +2,11 @@
   font-family: 'Georgia', 'Times', serif;
 }
 
+#solar-system-head{
+ text-align:center
+ font-family:'Times'
+}
+
 a {
   color: SeaGreen;
   text-decoration: none;
