@@ -1,24 +1,20 @@
-title: Alp Tezbasaran
+title: Onur MURAT
 description: PhD. Student
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 
 
-author: "Alp Tezbasaran"
-url: alptezbasaran.github.io
+author: "Onur MURAT"
+url: nrmrt.github.io
 
 
 github:
-  owner_name: Alp Tezbasaran
-  owner_url: alptezbasaran.github.io
+  owner_name: Onur MURAT
+  owner_url: nrmrt.github.io
 
 githubE:
-  owner_name: Alp Tezbasaran
-
-twitter:
-  username: alptezbasaran
-  card: summary
+  owner_name: Onur MURAT
 
 facebook:
   username: alptezbasaran
@@ -27,11 +23,11 @@ instagram:
   username: alptezbasaran
 
 email:
-  address: alptezbasaran@ncsu.edu
+  address: onurmurat1991@gmail.com
 
 social:
   name: Alp Tezbasaran
   links:
     - https://twitter.com/alptezbasaran
     - https://www.facebook.com/alptezbasaran
-    - https://github.com/alptezbasaran
+    - https://github.com/nrmrt
